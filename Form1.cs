@@ -7,6 +7,7 @@ using OfficeOpenXml;
 
 namespace ViewBidAskDB
 {
+    ///ЭТО главная форма!!!!
     public partial class Form1 : Form
     {
         //имя файла БД с которой идет работа
